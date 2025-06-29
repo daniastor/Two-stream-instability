@@ -3,6 +3,9 @@ Tutorial for the solution of a plasma electrostatic one dimensionalmodel using a
 
 ![Simulation Output](https://github.com/daniastor/Two-stream-instability/blob/main/TSIEH_198.png)
 
+# Donations for research
+[>>PayPal<<](https://www.paypal.com/donate/?hosted_button_id=LJS7V83A77PS8)
+
 # Attribution Requirement
 This project is licensed under the GNU General Public License v3.0.
 

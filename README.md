@@ -1,5 +1,5 @@
 # Two-stream-instability
-Tutorial for the solution of a plasma electrostatic one dimensionalmodel using a PIC scheme [Here a video](https://github.com/daniastor/Two-stream-instability/blob/main/TSIEH.mp4)
+Tutorial for the solution of a plasma electrostatic one dimensionalmodel using a PIC scheme [Here a video](https://www.youtube.com/watch?v=rLAlAS0LsPs&ab_channel=DanielaF.L%C3%B3pezAstorquiza)
 
 ![Simulation Output](https://github.com/daniastor/Two-stream-instability/blob/main/TSIEH_198.png)
 
